@@ -16,6 +16,7 @@ class Solution {
             if (entry.getValue() > appears) {
                 return entry.getKey();
             }
+            
         }
 
         // The problem guarantees that a majority element always exists
