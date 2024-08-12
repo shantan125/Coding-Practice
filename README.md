@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shantan125/Coding-Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/shantan125/Coding-Practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantan125/Coding-Practice/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shantan125/Coding-Practice/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shantan125/Coding-Practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
