@@ -2,12 +2,12 @@
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        // Convert array to list
         List<Integer> list = new ArrayList<>();
-        for (int num : nums) {
+       for (int num : nums) {
             list.add(num);
-        }
+        } 
 
+            Collections.sort(list);
         if (list.contains(target)) {
             return list.indexOf(target);
         } else {
