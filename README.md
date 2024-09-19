@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shantan125/Coding-Practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/shantan125/Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shantan125/Coding-Practice/tree/master/0169-majority-element) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shantan125/Coding-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
