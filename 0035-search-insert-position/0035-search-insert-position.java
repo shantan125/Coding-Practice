@@ -1,19 +1,17 @@
-
-
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        List<Integer> list = new ArrayList<>();
-       for (int num : nums) {
-            list.add(num);
-        } 
-
-            Collections.sort(list);
-        if (list.contains(target)) {
-            return list.indexOf(target);
-        } else {
-            list.add(target);
-            Collections.sort(list);
-            return list.indexOf(target);
+       int start = 0;
+        int end = nums.length-1;
+        while(start<=end){
+       int mid = start+(end-start)/2;
+        if(target>nums[mid]){
+            start = mid+1;
+        }else if(target<nums[mid]){
+            end = mid-1;
+        }else{
+            return mid;
         }
+        }
+        return start;
     }
 }
